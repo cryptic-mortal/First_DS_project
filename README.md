@@ -23,6 +23,7 @@ The ultimate goal is to enhance skills in data science through practical applica
 - **Total Columns**: 15
 
 ### Column Descriptions
+
 | Column Name | Datatype | Description |
 |-------------|----------|-------------|
 | sl_no       | int      | Serial Number |
@@ -34,7 +35,6 @@ The ultimate goal is to enhance skills in data science through practical applica
 | hsc_s      | categorical(string) | Specialization in Higher Secondary Education |
 | degree_p    | float    | Degree Percentage |
 | degree_t    | categorical(string) | Under Graduation (Degree type) - Field of degree |
-| education   | categorical(string) | Work Experience |
 | workex      | categorical(string) | Work Experience |
 | etest_p     | float    | Employability test percentage (conducted by college) |
 | specialisation | categorical(string) | Post Graduation (MBA) - Specialization |
